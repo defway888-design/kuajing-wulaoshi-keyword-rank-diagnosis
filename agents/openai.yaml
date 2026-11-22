@@ -1,0 +1,6 @@
+interface:
+  display_name: "跨境吴老师 Amazon自然排名与广告展示诊断 Skill"
+  short_description: "跨境吴老师逐日分析自然与广告覆盖，提供条件式投放方向及相关性核查清单"
+  default_prompt: "使用 $kuajing-wulaoshi-keyword-rank-diagnosis，先检查西柚 MCP 接入，通过后在当前对话框提示我输入 ASIN、站点和抓取天数；天数未填写时使用 3 天，按固定母版生成跨境吴老师离线诊断看板。"
+policy:
+  allow_implicit_invocation: true

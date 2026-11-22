@@ -1,0 +1,8 @@
+{
+  "template_id": "keyword-rank-progressive-v1",
+  "version": "1.0.0",
+  "sha256": "8164f61bf84c096fbebf50e7e86109e27ecb5b18c6cd21af5ae2a27ab5fbc183",
+  "data_slot": "__REPORT_DATA__",
+  "layout": "approved-progressive-disclosure",
+  "source_free": true
+}
